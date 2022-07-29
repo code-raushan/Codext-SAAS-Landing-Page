@@ -10,6 +10,7 @@ This project was fairly a revision kind one to go through all the concepts learn
 
 Below is the view and link of the project👇👇👇
 <br>
+[codext](codext.netlify.app)
 
 ![codext](project13css.png)
 
